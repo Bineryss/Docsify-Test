@@ -1,5 +1,5 @@
 <!-- docs/-sidebar.md -->
 
-* [Home](./)
+* [Home](/)
 
-*[Overview](overview/index)
+*[Overview](overview/index.html)
