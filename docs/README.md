@@ -8,4 +8,12 @@
 
 ## Informative Texts
 
->Hello yea I am the information you'r looking for.
+>Hello, yea I am the information you'r looking for.
+
+ Bananen 
+ 
+ ```mermaid
+graph LR
+A --> B --> C[(Database)]
+C --> B --> A
+ ```

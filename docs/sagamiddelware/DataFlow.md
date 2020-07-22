@@ -5,6 +5,6 @@
 ##### Daten Fluss:
 ```mermaid
 graph LR
-A --- B
+ReduxFrontend --- SagaMiddleware --- Server
 
 ```
