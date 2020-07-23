@@ -1,4 +1,4 @@
-![Logo](/_media/undraw_file_analysis_8k9b.svg)
+![Logo](_media/undraw_file_analysis_8k9b.svg)
 
 # Aufbau eines Elements mit Typescript
 
