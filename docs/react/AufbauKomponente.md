@@ -1,4 +1,4 @@
-![Logo](stuff.svg)
+![Logo](_media/stuff.svg)
 
 # Aufbau eines Elements mit Typescript
 
