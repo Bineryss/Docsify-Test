@@ -1,4 +1,4 @@
-![img](/media/undraw_visionary_technology_33jy.svg)
+![img](_media/undraw_visionary_technology_33jy.svg)
 
 # React
 
