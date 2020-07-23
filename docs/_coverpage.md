@@ -1,4 +1,4 @@
-![Logo](docs/media/discover.svg)
+![Logo](discover.svg)
 
 # 1TR Frontend <small>U & I<small>
 
