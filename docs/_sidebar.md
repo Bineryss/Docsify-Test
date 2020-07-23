@@ -1,8 +1,13 @@
 <!-- docs/-sidebar.md -->
 
-* [Home](/)
-
-* [Overview](overview/README.md)
-* [React](react/README.md)
-* [Saga Middleware](sagamiddelware/DataFlow.md)
-* [Server](server/README.md)
+* [Home](overview/README.md)
+* React
+    * [React im Projekt](react/WasIstReact.md)
+    * [Komponenten](react/AufbauKomponente.md)
+    * [Material UI](react/MaterialUi.md)
+* Daten handling
+    * [Redux](middleware/Redux.md)
+    * [Saga Middleware](middleware/.md)
+* Server
+    * [Backend](server/README.md)
+    * [Backend Connection](/)
