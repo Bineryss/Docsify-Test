@@ -44,7 +44,7 @@ ReduxFrontend --- SagaMiddleware --- Server
 
 Hier wird kurz und abstrakt erklährt, wie der Server funktioniert und wozu man ihn braucht
 
->Weitere Informationenüber kann man im Reiter [Server](/docs/server/README.md) nachlesen.
+>Weitere Informationenüber kann man im Reiter [Server](/docs/server/Server.md) nachlesen.
 
 ###### Code Beispiel:
 ```javascript

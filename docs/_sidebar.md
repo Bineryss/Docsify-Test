@@ -9,5 +9,5 @@
     * [Redux](middleware/Redux.md)
     * [Saga Middleware](middleware/SagaMiddleware.md)
 * Server
-    * [Backend](server/README.md)
-    * [Backend Connection](server)
+    * [Backend](server/Server.md)
+    * [Backend Connection](server/BackendConnection.md)
