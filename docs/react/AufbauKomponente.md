@@ -1,9 +1,11 @@
-# React
+![Logo](/media/undraw_file_analysis_8k9b.svg)
 
-## Aufbau eines Elements mit Typescript
+# Aufbau eines Elements mit Typescript
+
 In dem Projekt werden die einzelnen Komponenten immer in 3 Teile aufgespalten
+
 >Das **Element** handelt einzig das Rendern des HTLM Objekts.<br>
->**Types** ist ein Interface das die Types für das Element und die Logik beinhaltet.<br>
+>**Types** ist ein Interface das die *interfaces* für das Element und die Logik beinhaltet.<br>
 >Die **Logik** bildet die Schnittstelle, zwichen der Middleware und dem Element.
 
 ```mermaid
