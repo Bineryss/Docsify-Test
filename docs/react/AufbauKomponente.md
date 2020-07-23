@@ -36,7 +36,11 @@ Da es doch noch einige spiezialfälle gibt und auch andere Fälle, bei denen das
 
 Am ende noch ein kurzes Codebeispiel
 ````typescript
-function Button(props: ElemetProps) {
+interface ElementProps {
+  stuff: string;
+}
+
+function Button(props: ElementProps) {
     return ("<button>{$value}</button>");
 }
 ````
