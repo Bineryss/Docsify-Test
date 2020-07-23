@@ -1,4 +1,4 @@
-![Button Style](/media/undraw_design_components_9vy6.svg)
+![Button Style](_media/undraw_design_components_9vy6.svg)
 
 # Material UI
 
